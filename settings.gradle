@@ -1,0 +1,2 @@
+include ':external_storage_write_file', ':external_storage_read_file'
+rootProject.name='Write External File'
